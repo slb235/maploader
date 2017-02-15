@@ -1,0 +1,1 @@
+L.tileLayer('tiles/{z}-{x}-{y}.png', { maxZoom: 18 }).addTo(map); map.setView([52.480047, 13.443471], 18)
